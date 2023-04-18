@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+
+}
+.header{
+    background-color: black;
+    width: auto;
+    height: 270px;
+    font-family: 'Anuphan', sans-serif;
+}
+.header-text {
+    color: white;
+    display: block;
+    font-size: 100px;
+    font-family: 'Anuphan', sans-serif; 
+    margin: 0px;
+    position: relative;
+    left: 570px;
+    top: 60px
+}
+.tag {
+    color: white;
+    display: block;
+    font-size: 40px;
+    font-family: 'Anuphan', sans-serif;
+    margin: 0px;
+    position: relative;
+    left: 520px;
+    top: 70px;
+}
+.notice {
+    font-family: 'Anuphan', sans-serif;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+a{
+    text-decoration: none;
+    color: rgb(146, 146, 146);
+}
